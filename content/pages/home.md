@@ -3,7 +3,12 @@ template: HomePage
 slug: ''
 title: CodeWeek 2020
 featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+subtitle: Netlify CMS is cool!
+accordion:
+  - content: C2
+    title: ACC2
+  - content: C1
+    title: ACC1
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
